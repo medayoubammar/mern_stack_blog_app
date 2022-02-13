@@ -10,3 +10,10 @@
 * { 
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.Allposts{
+border-right: solid 1px rgb(51, 0, 66);
+}
+.Mynav{
+  background-color: rgb(61, 11, 107);
+}

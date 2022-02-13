@@ -4,13 +4,13 @@ export default function Header()
     return(
         <div>
           
-            <div className="Header-Titles">
+         
                
-                <p className="text-center h1 BlogTitle">
-                    Blog
+                <p className="text-center p-0 m-0 h1 BlogTitle">
+                   My Blogs
                 </p>
 
-            </div>
+         
             <img src="blog.jpg" className="img-fluid" alt="..." />
         </div>
     )

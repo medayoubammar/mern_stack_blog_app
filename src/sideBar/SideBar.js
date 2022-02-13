@@ -2,7 +2,7 @@
 export default function SideBar()
 {
     return(
-        <div>
+        <div className="ms-5 me-5">
           <p className="h3 text-end pe-3">About Me</p>
           <p className="text-end pe-3">Hello i'm a software developer ,<br></br>
            and i'm creating this blog to my students <br></br>

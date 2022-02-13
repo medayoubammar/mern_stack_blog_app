@@ -8,7 +8,7 @@ export default function Posts()
         <img src="post.png" className="card-img-top " alt="..." />
         <div className="card-body">
           <h5 className="card-title">Post</h5>
-          <p className="card-text"> content.</p>
+          <p className="card-text">  content content content.content content.</p>
           <Link to="/posts/:postId" href="#" className="btn">Go somewhere</Link>
         </div>
       </div>
